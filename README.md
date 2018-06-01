@@ -7,4 +7,4 @@ How to use this program:
 - start command prompt e go inside the folder containing the "ImageResizer.java" file
 - write the following command: javac ImageResizer.java
 
-<img src="image resizer instructions\2.png\>
+<img src="image resizer instructions\2.png"/>
