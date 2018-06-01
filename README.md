@@ -1,6 +1,9 @@
 # android auto image resizer
 This program automaticaly resizes images for android projects.
 
+This program will not overwrite existing files and folders, nor will delete the image provided.
+This program will copy the image provider in the drawable-mdpi folder and for the other folders, will create new images by changing the size of provided image.
+
 How to use this program:
 
 - download "ImageResizer.java" on your computer
